@@ -1,1 +1,1 @@
-# panda-commarce-bootstrap
+# panda-commerce-bootstrap
